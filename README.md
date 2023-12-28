@@ -1,2 +1,10 @@
 # SPI-Function
-We calculate the SPI for a comum dataframe
+The drought we be calculate identification with *Standardized Precipitation Index* (SPI). 
+
+# SPI
+[(Mckee, 1993)](https://api.semanticscholar.org/CorpusID:129950974)) proposed this index for identifying droughts. The SPI requires accumulated precipitation data for a minimum of 30 years. The index has three scales: meteorological, agricultural, and hydrological (3 months, 6 months, and 12 months).
+
+<p align="center">
+  <img src="./src/spi.png" style="width: 80%; height: 80%" />
+</p>
+
